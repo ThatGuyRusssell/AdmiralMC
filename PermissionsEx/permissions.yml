@@ -5,6 +5,7 @@ groups:
       prefix: '&f[&7Member&f] '
     permissions:
     - essentials.warp
+    - esentials.color
     - essentials.warp.shop
     - randomtp.tp
     - multiverse.core.spawn.self
