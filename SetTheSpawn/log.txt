@@ -1,0 +1,55 @@
+06.07.2019 - 22:19:30 - [INFO] The 'config.yml' file successfully created!
+06.07.2019 - 22:19:30 - [INFO] The 'messages.yml' file successfully created!
+06.07.2019 - 22:19:30 - [INFO] The 'spawns.yml' file successfully created!
+06.07.2019 - 22:19:30 - [INFO] You're running the latest version.
+06.07.2019 - 22:19:30 - [INFO] Metrics enabled.
+06.07.2019 - 22:29:28 - [INFO] You're running the latest version.
+06.07.2019 - 22:29:28 - [INFO] Metrics enabled.
+07.07.2019 - 16:42:37 - [INFO] You're running the latest version.
+07.07.2019 - 16:42:37 - [INFO] Metrics enabled.
+07.07.2019 - 22:31:02 - [INFO] You're running the latest version.
+07.07.2019 - 22:31:02 - [INFO] Metrics enabled.
+07.07.2019 - 22:43:24 - [INFO] You're running the latest version.
+07.07.2019 - 22:43:24 - [INFO] Metrics enabled.
+07.07.2019 - 22:52:44 - [INFO] You're running the latest version.
+07.07.2019 - 22:52:44 - [INFO] Metrics enabled.
+08.07.2019 - 13:16:51 - [INFO] You're running the latest version.
+08.07.2019 - 13:16:51 - [INFO] Metrics enabled.
+08.07.2019 - 13:22:30 - [INFO] You're running the latest version.
+08.07.2019 - 13:22:30 - [INFO] Metrics enabled.
+08.07.2019 - 13:52:20 - [INFO] You're running the latest version.
+08.07.2019 - 13:52:20 - [INFO] Metrics enabled.
+08.07.2019 - 13:57:32 - [INFO] You're running the latest version.
+08.07.2019 - 13:57:32 - [INFO] Metrics enabled.
+08.07.2019 - 14:01:07 - [INFO] You're running the latest version.
+08.07.2019 - 14:01:07 - [INFO] Metrics enabled.
+08.07.2019 - 14:06:19 - [INFO] You're running the latest version.
+08.07.2019 - 14:06:19 - [INFO] Metrics enabled.
+08.07.2019 - 14:11:14 - [INFO] You're running the latest version.
+08.07.2019 - 14:11:14 - [INFO] Metrics enabled.
+08.07.2019 - 14:12:46 - [INFO] You're running the latest version.
+08.07.2019 - 14:12:46 - [INFO] Metrics enabled.
+08.07.2019 - 14:23:14 - [INFO] You're running the latest version.
+08.07.2019 - 14:23:14 - [INFO] Metrics enabled.
+08.07.2019 - 14:28:35 - [INFO] You're running the latest version.
+08.07.2019 - 14:28:35 - [INFO] Metrics enabled.
+08.07.2019 - 14:36:48 - [INFO] You're running the latest version.
+08.07.2019 - 14:36:48 - [INFO] Metrics enabled.
+08.07.2019 - 14:39:58 - [INFO] You're running the latest version.
+08.07.2019 - 14:39:58 - [INFO] Metrics enabled.
+08.07.2019 - 14:48:54 - [INFO] You're running the latest version.
+08.07.2019 - 14:48:54 - [INFO] Metrics enabled.
+08.07.2019 - 19:22:14 - [INFO] You're running the latest version.
+08.07.2019 - 19:22:14 - [INFO] Metrics enabled.
+08.07.2019 - 19:34:45 - [INFO] You're running the latest version.
+08.07.2019 - 19:34:45 - [INFO] Metrics enabled.
+08.07.2019 - 20:05:16 - [INFO] You're running the latest version.
+08.07.2019 - 20:05:16 - [INFO] Metrics enabled.
+08.07.2019 - 20:12:22 - [INFO] You're running the latest version.
+08.07.2019 - 20:12:22 - [INFO] Metrics enabled.
+08.07.2019 - 20:17:50 - [INFO] You're running the latest version.
+08.07.2019 - 20:17:50 - [INFO] Metrics enabled.
+08.07.2019 - 20:18:13 - [INFO] You're running the latest version.
+08.07.2019 - 20:18:13 - [INFO] Metrics enabled.
+08.07.2019 - 20:21:46 - [INFO] You're running the latest version.
+08.07.2019 - 20:21:46 - [INFO] Metrics enabled.

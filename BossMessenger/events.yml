@@ -1,0 +1,49 @@
+Events:
+  PlayerJoin:
+    Text: '&ePlayer &a%target%&e joined.'
+    Attributes:
+    - ==: Attribute
+      Value:
+        ==: Percent
+        Percent: '100'
+      Key: Percent
+    Show: 100
+    Enabled: false
+    MessageLists:
+    - default
+  PlayerQuit:
+    Text: '&6Player &e%target%&6 just left. We''ll miss him ;('
+    Attributes:
+    - ==: Attribute
+      Value:
+        ==: Percent
+        Percent: '100'
+      Key: Percent
+    Show: 100
+    Enabled: false
+    MessageLists:
+    - default
+  PlayerPVPDeath:
+    Text: '&ePlayer &a%victim%&e got killed by &4%killer%'
+    Attributes:
+    - ==: Attribute
+      Value:
+        ==: Percent
+        Percent: '100'
+      Key: Percent
+    Show: 100
+    Enabled: false
+    MessageLists:
+    - default
+  WelcomeEvent:
+    Text: '&eWelcome &a%player%%sep%&ato &5%server_name%'
+    Attributes:
+    - ==: Attribute
+      Value:
+        ==: Percent
+        Percent: '100'
+      Key: Percent
+    Show: 100
+    Enabled: false
+    MessageLists:
+    - default

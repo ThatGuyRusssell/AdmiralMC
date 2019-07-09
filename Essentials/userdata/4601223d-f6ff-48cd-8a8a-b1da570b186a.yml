@@ -1,0 +1,30 @@
+lastAccountName: Berckham
+timestamps:
+  login: 1562567407422
+  logout: 1562567464355
+  lastteleport: 1562567270000
+ipAddress: 24.79.131.31
+lastlocation:
+  world: factions
+  x: 195.6392145147448
+  y: 75.0
+  z: -239.15100768923966
+  yaw: -44.81477
+  pitch: 1.1065375
+logoutlocation:
+  world: Lobby
+  x: 7.984626856267051
+  y: 86.51683640034312
+  z: 164.47805580637657
+  yaw: 23.675947
+  pitch: 39.962128
+nickname: §d§lBeckham
+afk: false
+homes:
+  home:
+    world: factions
+    x: 4.790266335724422
+    y: 76.0
+    z: -38.72488978059062
+    yaw: -99.33679
+    pitch: 33.45001

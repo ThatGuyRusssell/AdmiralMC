@@ -1,0 +1,26 @@
+lastAccountName: Element_85
+timestamps:
+  login: 1562634406827
+  lastteleport: 1562634424308
+  logout: 1562635350903
+ipAddress: 23.117.114.43
+lastlocation:
+  world: factions
+  x: -16.890028314540665
+  y: 84.74294579007791
+  z: 49.773724635815924
+  yaw: 30.555202
+  pitch: -75.19674
+afk: false
+nickname: §c§lE§6§ll§e§le§a§lm§3§le§d§ln§b§lt
+logoutlocation:
+  world: factions
+  x: 2.26894937814278
+  y: 77.0
+  z: 31.463460969472322
+  yaw: -90.48146
+  pitch: 31.008444
+money: '50000000'
+powertools:
+  compass:
+  - warp

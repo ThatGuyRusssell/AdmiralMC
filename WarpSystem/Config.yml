@@ -1,0 +1,8 @@
+WarpSystem:
+  Maintenance: false
+  Teleport:
+    Op_Can_Skip_Delay: false
+    Animation: 17
+    Delay: 5
+    Allow_Move: false
+    WarpSystem.GUI.BoundToWorld: true

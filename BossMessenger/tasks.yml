@@ -1,0 +1,19 @@
+Tasks:
+  makeitrain:
+    ==: Task
+    Commands:
+    - say Oops, sorry! We are rong again. No rain will be!
+    Text: '&4[&6Weather&aForecast&4] &bRa1n 1t w1ll b3 in &e%sec%'
+    Name: makeitrain
+  stoptheserver:
+    ==: Task
+    Commands:
+    - stop
+    Text: '&4Server is going down in &e%sec%'
+    Name: stoptheserver
+  starttheskynet:
+    ==: Task
+    Commands:
+    - say Now, Skynet will initiate a massive nuclear attack in your a$$
+    Text: '&aSkynet activated! Its gonna f*** you up in %sec% seconds.'
+    Name: starttheskynet

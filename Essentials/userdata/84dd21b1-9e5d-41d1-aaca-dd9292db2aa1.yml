@@ -1,0 +1,23 @@
+lastAccountName: Devilcraft
+timestamps:
+  login: 1562196510758
+  logout: 1562196797737
+  lastteleport: 1562019495028
+ipAddress: 76.64.213.217
+geolocation: Canada
+lastlocation:
+  world: Lobby
+  x: -14.50663715071126
+  y: 10.5
+  z: 194.16132993379708
+  yaw: 27.49625
+  pitch: 44.080833
+logoutlocation:
+  world: factions
+  x: -23.319678641074294
+  y: 86.0
+  z: -13.08242941502459
+  yaw: -294.80426
+  pitch: 40.0875
+afk: false
+nickname: §4§lDevil

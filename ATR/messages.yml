@@ -1,0 +1,19 @@
+Lang:
+  Configuration:
+    ReloadComplete: '[AcceptTheRules] &3The configuration has successfully reloaded!'
+  PlayerInfo:
+    Playername: '&2Name:&5 '
+    HasAccepted: '&2Has Accepted:&3 '
+    Version: '&2Version:&6 '
+    Date: '&2Accepted date:&5 '
+  CMD:
+    Info: '&6Shows information of this plugin'
+    Reload: '&6Reloads all configuration files'
+    Player: '&6Shows information of the player'
+  Message:
+    PlayerNotFound: '&4Player not found!'
+    NoPermission: '&4 You are not allowed to use that command!'
+    ResetPlayer: '&3 The data of &6%player% &3has been reset. Now the player has to
+      accept the rules again.'
+    RulesCooldown: '&6>>> &4Please read the rules carefully and do not try to skip
+      them! &6<<<'

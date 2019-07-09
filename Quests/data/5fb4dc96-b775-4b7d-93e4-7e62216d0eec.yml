@@ -1,0 +1,12 @@
+currentQuests: none
+currentStages: none
+quest-points: 8
+completed-Quests: none
+amountsCompletedQuests:
+- Smuggler
+- Help A Person Out!
+amountsCompleted:
+- 3
+- 2
+hasJournal: false
+lastKnownName: overlordrusty

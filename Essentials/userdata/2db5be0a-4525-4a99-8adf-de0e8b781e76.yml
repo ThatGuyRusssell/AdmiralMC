@@ -1,0 +1,21 @@
+geolocation: United States
+lastAccountName: aidcn
+timestamps:
+  login: 1562085895265
+  logout: 1562085922036
+ipAddress: 98.5.15.190
+lastlocation:
+  world: Lobby
+  x: 36.06807260056344
+  y: 8.0
+  z: 166.57052802435507
+  yaw: 110.15151
+  pitch: 28.57732
+afk: false
+logoutlocation:
+  world: Lobby
+  x: -2.629772074124774
+  y: 10.0
+  z: 250.9982572701876
+  yaw: -111.48872
+  pitch: 24.259216

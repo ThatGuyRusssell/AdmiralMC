@@ -1,0 +1,32 @@
+MessageLists:
+  default:
+    ==: MessageList
+    Type: BOSSBAR
+    Messages:
+    - ==: Message
+      Attributes:
+      - ==: Attribute
+        Value:
+          ==: Percent
+          Percent: '100'
+        Key: Percent
+      Text: §bWelcome to AdmiralMC §d%player%!
+      Show: 100
+      Interval: 0
+    Storage: CONFIG
+    Random: false
+    Name: default
+  titles:
+    ==: MessageList
+    Type: TITLE
+    Messages: []
+    Storage: CONFIG
+    Random: false
+    Name: titles
+  chat:
+    ==: MessageList
+    Type: CHAT
+    Messages: []
+    Storage: CONFIG
+    Random: false
+    Name: chat

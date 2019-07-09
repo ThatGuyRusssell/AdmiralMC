@@ -1,0 +1,37 @@
+npc-data:
+  npc-4:
+    cooldown: 0
+    right-click-commands:
+    - '[console] randomteleport'
+    - '[console] randomteleport:randomtp'
+    - '[console] spawn'
+    - '[console] spawn'
+    - '[console] true spawn'
+    - '[consoletrue] spawn'
+    - '[consoletrue] randomteleport:randomtp'
+    left-click-commands: []
+    price: 0
+  npc-9:
+    cooldown: 0
+    right-click-commands:
+    - '[consoletrue] randomteleport:randomtp'
+    left-click-commands: []
+    price: 0
+  npc-8:
+    cooldown: 0
+    right-click-commands:
+    - '[CONSOLE] warp Shop %player%'
+    left-click-commands: []
+    price: 0
+  npc-7:
+    cooldown: 0
+    right-click-commands:
+    - '[console] mvtp %player% lobby'
+    left-click-commands: []
+    price: 0
+  npc-11:
+    cooldown: 0
+    right-click-commands:
+    - '[console] mvtp %player% factions'
+    left-click-commands: []
+    price: 0

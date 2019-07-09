@@ -1,0 +1,132 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 11
+npc:
+  '9':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjIzNzE4ODMwMzgsInByb2ZpbGVJZCI6IjFiN2I2YzYwZGQ5ODQ3NDhhNWU5NGJiMjFmZWFmZmMxIiwicHJvZmlsZU5hbWUiOiJhYWEiLCJzaWduYXR1cmVSZXF1aXJlZCI6dHJ1ZSwidGV4dHVyZXMiOnsiU0tJTiI6eyJ1cmwiOiJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg4NDVlMGYwYjU5MjgzYmI4NmM5YzQxOGNlZTY4ZmJkNzBmMDEyNDJmMDZjN2QyODgzZTc4Nzc5ZTE3ZTAwOWYifX19
+      cached-skin-uuid-name: aaa
+      cached-skin-uuid: 1b7b6c60-dd98-4748-a5e9-4bb21feaffc1
+      player-skin-name: aaa
+      player-skin-signature: o37xhlz6+KlW83UvSDjUeZAf07x5AIOMxahgEyoraR/GdYyHIlKP3sYwDtTHX8qRSjTLI9YFy4sz/ViFhrgPTZJERSFsQT8ly/7TtK6CRlIGS8MIuPhYIxk5b0PhQ9ouV3sohw0Xszep3LEg9F00YSskvbEGSAg7kmC5RWHG7PIyvi4guKUWlPqlMba9PNbKaX0FAg643+3nuIg5mlWJxyrBCVwHGmpzSdypUsc/NA+1+hnJmjyAhgfIxxAILW1brvQSowiiIJQEoNbC214w5XE7XAmTXrxW8gQ6h+pvj5Je6E5lDbyEAjcmWv41UVVQ90YQoA4pCQkLsI3aOMsmCHFAvvKdVkkeFQ/zwzSop1ScHJCbhjRp4akMJFJHZKLQXs1Pd2QstLo8FpHzWF/PEIoa7FpRDtr8Ae1CduvonbVgKDljDA0PH7Qf/nXWm3kR/7i/1CaQoiJo4DEiIpxwHnFcCU5KhA8k8zeVZwPpDnJLfx5reGXjLc6GWcQY0S+fGeD89oY8LxEU1xBZDZYmu7HhQjLEHhKuBSRYjuXlnSjPgwlM3+VDqV5jCyapHvbNVqbVGjbrZqgviFCG73devzoUR05Qb+eVU4GqplHptHZrD5vSbRwhBKKY/E6WNW83i6gvLu5i6qF/qY2RefNY9+QdcslMTbSgbeGgFo/CmpU=
+    name: §a§lWild
+    uuid: 5d0429a7-8caa-41ed-9226-2205a65679f3
+    traits:
+      location:
+        world: factions
+        x: '-19.5'
+        y: '78.5'
+        z: '28.5'
+        yaw: '-43.78013229370117'
+        pitch: '0.516514241695404'
+      type: PLAYER
+      spawned: true
+      gravity:
+        enabled: false
+      owner:
+        owner: overlordrusty
+        uuid: 5fb4dc96-b775-4b7d-93e4-7e62216d0eec
+    traitnames: location,mounttrait,inventory,gravity,owner,type,equipment,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjIzNzE4NDEwODMsInByb2ZpbGVJZCI6IjMyMjA3NDU2OWM4ZTRlOTdiZWIxOTViMDlmMzg5OWM5IiwicHJvZmlsZU5hbWUiOiJBbGxpbjBuZSIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTE0YjczZWYwYWU5ZDU4ODUzMWZiOTlmMzk2NmFjYzNmM2U3ZmJjYWM1Zjc0ZDY5OGRjNDkwZjY5ZjZjMDQyNyJ9fX0=
+      cached-skin-uuid-name: allin0ne
+      cached-skin-uuid: 32207456-9c8e-4e97-beb1-95b09f3899c9
+      player-skin-name: allin0ne
+      player-skin-signature: vELa6B2W6DxQ2Db1X0S2c5lA/mbN0iwtALF3yIp/Hzrwzjf2Hq4sQUnvE+70c4zxh9mf8c1UqSZ5fIJ0Fc9Xyqq4WL+iLqeXrkfeTNd6WOw5NaYU3oS/rcjkORfyFr7a4L+NgXwAvMGzWvq92g7tdnEOp40dAw7JbPfQvU2jFrcnY5QUY4xSBMX8WQUXycOP34k7RakmCb8gTuzeBji0ZBsPPzMX8MazocidmObwRvuVQZqerpSOxinOmnsYLErbXnAwWBsSsfC6RKIXD9Q3vWWG4KOMB8x1hOwQtorAMQjA+kTth6hK18cCd+DyCPD3zxWKUz9rttsrJLAK/qG+p53WjuFvc/pehJv5FLjABc2YYaLMCnHM/H58W3zdU8I4LkV+K1YZ+aXtqmTMasSWPxxHT8VWyI1h0/eblkSqyuCvyFpQuNcajCLenFgnTSFb5VlS+Svm4GsumlFWcAl+MCwtu8MHqzRPRphIa8rdmSuwKyQXvc985lez38O9N7oEOG/ksFZuoUxQ2K2Tw+/BuJjBw01GRpu/vSvYYo3sMpVonDAkqXM8dyoX9Nx+jjVtmcdXy+9wGCnhWFYHcW54YTI6EloMZKjmp2mUx4yV6algwh/e7fZj4J5m8Jg/NDugcwEPouxF4X42sgO4crP2Iqtl9YCf5DBR9gdkrKIENqg=
+    name: §a§lShop
+    uuid: 436dba6f-cb67-478e-b278-f25321f53d4f
+    traits:
+      location:
+        world: factions
+        x: '-13.5'
+        y: '78.5'
+        z: '34.5'
+        yaw: '134.85069274902344'
+        pitch: '3.319092273712158'
+      type: PLAYER
+      spawned: true
+      gravity:
+        enabled: false
+      owner:
+        owner: overlordrusty
+        uuid: 5fb4dc96-b775-4b7d-93e4-7e62216d0eec
+    traitnames: location,mounttrait,inventory,gravity,owner,type,equipment,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjIzNzE3ODEyOTAsInByb2ZpbGVJZCI6IjVmYjRkYzk2Yjc3NTRiN2Q5M2U0N2U2MjIxNmQwZWVjIiwicHJvZmlsZU5hbWUiOiJvdmVybG9yZHJ1c3R5Iiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NzkxNDY3NDVlYTM1NWIwZWE1YzJhZGI0NWFlYTFjZmQ0ODYzMjZjZjQwMjNiYmI1NDE3MmIwNmRkMWM5NWMzIn19fQ==
+      cached-skin-uuid-name: overlordrusty
+      cached-skin-uuid: 5fb4dc96-b775-4b7d-93e4-7e62216d0eec
+      player-skin-name: overlordrusty
+      player-skin-signature: GpqNNVxJ1hXv/Qi5C3SQmzdGhck+mOqWi96NSMcD+QQ2Ny9zKJXPDWCnJ1damlR14/AjH/KqNK76k0Dr2Fr04h1ig3JpoH88n7Uxm59diYZpAw/TAWUfLebkCMzLEuPJjjKQs/2tVBVJBE6D7VDtcO6vWFg5OZodR3rZK4xRWrtoa4Q1TlX5/aXnhZbjbmXJP5yvuLM6PHMCa58gPDl/dgfp8RiA/GWvCL18nSsx3mcvAP77lUUG0II6qXt6iLApHisAZg7aW303Ne6kJZu4pKOuQi+kZzDjbIVnfo4thBWx7OI2Lt22NTHu0y3PCKxaGS+JJCym/3mrVKiiqPeUWSZVGBPqjxiCyS4pS2sWP3KfAlXQnL1uCTWo2jxvIrXG+jn4gcvNFAIGCBdh/fkXtFPIcr6Y7Ntcj29fKhWDaC2Xki5NpWKOEia7cQu5K4iGI54FmoaUo8a7zz5pOOemKMV7b/EkEdx6N+c4z+rODyrfOFQcMe1H+Sd3jJR5zs49yLRZk1ej2aF//L0qecbvLnMh8J3gcE0f/a1ljh1PcHBXCTyLgCwgMD42qzEXvZiKdiSqOoNni9a/Bo6aT7NsFSOZ8tiBgo54TFMjEVfsrOw3aswFxF/nmxDMcN/JYW79ToLecxVQz3Ts5fEpGS/jYzqbFdf95cz6MhS9E0AN49k=
+    name: §a§lHub
+    uuid: f5d01ca4-7fa0-4529-bbe8-4b8e428c1954
+    traits:
+      location:
+        world: factions
+        x: '-13.5'
+        y: '78.5'
+        z: '28.5'
+        yaw: '39.964202880859375'
+        pitch: '-0.48440980911254883'
+      type: PLAYER
+      spawned: true
+      gravity:
+        enabled: false
+      owner:
+        owner: overlordrusty
+        uuid: 5fb4dc96-b775-4b7d-93e4-7e62216d0eec
+    traitnames: location,mounttrait,inventory,gravity,owner,type,equipment,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1NjI1OTM0NjYzOTEsInByb2ZpbGVJZCI6IjZkZDMwZmYzMDYxYjQwNWRhZjY4Y2ZlYWRlZTA1ZGQwIiwicHJvZmlsZU5hbWUiOiJibG9ja2FuZGJsb3gyIiwic2lnbmF0dXJlUmVxdWlyZWQiOnRydWUsInRleHR1cmVzIjp7IlNLSU4iOnsidXJsIjoiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NGVhNmQyMjU5OWRlNWM3Mjk5ZGNkYjE4YWRmYzRkYzg0N2ZmMWM2ODVmODcxN2Q4MGI5MWJhMzI5YzM3M2IwIn19fQ==
+      cached-skin-uuid-name: blockandblox2
+      cached-skin-uuid: 6dd30ff3-061b-405d-af68-cfeadee05dd0
+      player-skin-name: blockandblox2
+      player-skin-signature: nAUiA4RU0bR8qMOt+wuaFim0ofX/4bacbYsLGMi7XaHcY5gqlJmb+RXv9GfQ6A6fIo7L21vBkjWDkQZUe5Jiui5j0KRmgWU5b5AMLi0mmsYvWQwN2CNWwCsI7DicecNn+spOk5cfwbKDG+SHwdOLD7cdXW0PEdnvNiocQc1NRg9r9QYeyvuL1OOxpFmbM+k3h9fUByz1uBJWalGXKZYJ5j9nBTJlnkCeAOYNluBOYLF1GfXwWjCPbNt6dPBsx5tes74sjOzeF0CEknULac33tPUE+76fka3umhWTgBg5ailyLV/sL/zdk2eiI57SG1CMEeDsEtkuknGrckgFIYojkjGfedeL334Zk2itVB5NwP91vU/BC/jlZ5nMUoCdgzbEntj6tkZs+/UhWsj/S+07XooRTIxFA10ZaXHuGyZBAzPFGa6in2PXEqqVz0wMqLryTALNdnBILcsmDiZp+noSDkgIiBTAJgzTTFNUV7Ev3w89hgWF47tXsI0WDX9RIQGf5uN6AIvvfIAZ/Yo5LJepFgeXsnnqZ6F9o1NyDeEpoxuY69JqQHeCo72EOPOf6RrYPZBwXcepHy6oskUYSKLBaul7GLkRnw2vvEsEBC6Lgb5A60WVe3GcalEID3Wr0NOBM+muj47yXa51rQEdlwf7AEYM/bQJ48EQkb1nY+BwFKE=
+    name: §a§lFactions
+    uuid: 26389161-26fd-4e1e-9aec-33fc1ded0c29
+    traits:
+      gravity:
+        enabled: false
+      location:
+        world: Lobby
+        x: '-22.5'
+        y: '9.0'
+        z: '175.5'
+        yaw: '-132.86880493164062'
+        pitch: '5.664496421813965'
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: false
+        enableRandomLook: false
+        randomLookDelay: 60
+        randomPitchRange:
+        - -10.0
+        - 0.0
+        randomYawRange:
+        - 0.0
+        - 360.0
+        realisticlooking: false
+      type: PLAYER
+      owner:
+        owner: overlordrusty
+        uuid: 5fb4dc96-b775-4b7d-93e4-7e62216d0eec
+    traitnames: location,lookclose,mounttrait,inventory,gravity,owner,type,equipment,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

@@ -1,0 +1,7 @@
+AllowedCommands:
+- rules
+- rule
+- atraccept
+- atrdeny
+- atrnext
+- atrback

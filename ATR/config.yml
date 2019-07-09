@@ -1,0 +1,45 @@
+Configuration:
+  Menu:
+    BackButton: '&3<< &2Back'
+    NextButton: '&2Next &3>>'
+    AcceptButton: '&2>> Agree the rules <<'
+    DenyButton: '&4>> Disagree the rules <<'
+    RulesPerPage: 4
+    PageCooldown: 3
+    Space: '               '
+  Parting:
+    HeaderLine: '&6__________________[ %Page% / %maxPage% ]_____________________'
+    FooterLine: '&6_____________________________________________'
+    AcceptPageHeader: '&6_____________________________________________'
+    AcceptPageFooter: '&6_____________________________________________'
+    Default: '&6_____________________________________________'
+  Message:
+    AcceptText: 'Please accept the rules and get the next rank to build on this Server: '
+  Commands:
+    AcceptedExecutes:
+    - say &6%player% &fhas accepted the rules!
+    DenyExecutes:
+    - say &3%player% &f has denied the rules!
+  StartMessage:
+    enable: true
+    Message: Please type '/rules' to read and agree the rules. You will get some rewards!
+    Delay: 0
+  FreezePlayer:
+    Enable: false
+    Message: You can not move. You have to agree the rules with '/rules' !
+    Cooldown:
+      Enable: false
+      Time: 3
+  Block:
+    Chat:
+      Enable: false
+      Message: '&6 You have to accept the rules first. Please type &3/rules &6 to
+        accept the rules.'
+    Commands:
+      Enable: false
+      Message: '&6 You have to accept the rules first. Please type &3/rules &6 to
+        accept the rules.'
+  Period:
+    Enable: false
+    Days: 90
+  SaveInterval: 300

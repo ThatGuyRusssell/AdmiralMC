@@ -1,0 +1,15 @@
+spawn:
+  world:
+    factions: factions
+  x:
+    factions: -16.5
+  y:
+    factions: 77.0
+  z:
+    factions: 31.5
+  yaw:
+    factions: -89.95247
+  pitch:
+    factions: 0.11613768
+  version:
+    factions: 2.5

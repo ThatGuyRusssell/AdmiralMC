@@ -1,0 +1,94 @@
+groups:
+  default:
+    options:
+      default: true
+      prefix: '&f[&7Member&f] '
+    permissions:
+    - essentials.warp
+    - essentials.warp.shop
+    - randomtp.tp
+    - multiverse.core.spawn.self
+    - multiverse.access.factions
+    - multiverse.access.lobby
+    - essentials.lobby
+    - essentials.world.hub
+    - essentials.world.factions
+    - essentials.kits.starter
+    - essentials.kits
+    - essentials.kit.starter
+    - chatex.allowchat
+    - modifyworld.*
+  Owner:
+    options:
+      prefix: '&6★&f&lOwner&6★ '
+    permissions:
+    - '*'
+    - chatex.*
+  admin:
+    options:
+      prefix: '&6★&f&lAdmin&6★ '
+    permissions:
+    - '*'
+  builder:
+    options:
+      prefix: '&6★&b&lBuilder&6★ '
+  headbuilder:
+    options:
+      prefix: '&6★&b&lHead-Builder&6★ '
+  Co-Owner:
+    options:
+      prefix: '&6★&f&lCo-Owner&6★ '
+  manager:
+    permissions:
+    - '*'
+    options:
+      prefix: '&6★&f&lManager&6★ '
+schema-version: 1
+users:
+  3b5c7f35-2922-46b3-bafa-82f0f500643f:
+    permissions:
+    - '*'
+    group:
+    - manager
+    options:
+      name: Element_85
+  5fb4dc96-b775-4b7d-93e4-7e62216d0eec:
+    group:
+    - Owner
+    options:
+      prefix: ''
+      name: overlordrusty
+    permissions:
+    - '*'
+  4601223d-f6ff-48cd-8a8a-b1da570b186a:
+    group:
+    - headbuilder
+    options:
+      name: Berckham
+      prefix: ''
+  84dd21b1-9e5d-41d1-aaca-dd9292db2aa1:
+    group:
+    - builder
+    options:
+      name: Devilcraft
+  1d4103ce-e0bc-44f7-8e4e-9c10af12f78a:
+    group:
+    - Co-Owner
+    options:
+      name: ItsABigError
+  80aad105-f057-467d-871d-8582812f11e9:
+    group:
+    - builder
+    options:
+      name: Hydr0lava
+  78b84a0a-b59b-4d30-b279-2c832584cd80:
+    group:
+    - builder
+    options:
+      name: ItzMu44aGamer
+  51a48370-dcc1-487f-acad-a065f06aeb74:
+    group:
+    - manager
+    options:
+      group: manager
+      name: Je2ter

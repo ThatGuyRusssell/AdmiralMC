@@ -1,0 +1,39 @@
+lastAccountName: overlordrusty
+timestamps:
+  login: 1562623604563
+  lastteleport: 1562617099979
+  logout: 1562631091263
+  kits:
+    firework: 1548275714887
+    diamond: 1549072241656
+    color: 1549304954101
+    starter: 1548401734596
+    notch: 1548275598316
+    dtools: 1548275523648
+    tools: 1548275512338
+ipAddress: 82.19.0.123
+lastlocation:
+  world: world
+  x: -176.0
+  y: 70.0
+  z: -16.0
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: world
+    x: -123.35509331491113
+    y: 75.0
+    z: -59.87170246582358
+    yaw: 219.1499
+    pitch: 21.749977
+logoutlocation:
+  world: factions
+  x: -25.605329078475915
+  y: 140.86815527058724
+  z: 42.230516966727066
+  yaw: 186.03821
+  pitch: 57.23618
+afk: false
+money: '0.0'
+nickname: §4§lRuss

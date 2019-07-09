@@ -1,0 +1,37 @@
+holograms:
+  survival:
+    location: Lobby;43.20199411058854;10.0;171.59251763517295;60.90617;269.09296
+    lines:
+    - §n§l COMING SOON
+  survival2:
+    location: Lobby;43.73943102824736;9.0;171.49435878399376;73.31775;273.09668
+    lines:
+    - §a§l§nBUDGET
+  Prison:
+    location: Lobby;-81.3520527192392;10.0;171.48138883884525;4.5202703;91.73407
+    lines:
+    - §n§l COMING SOON
+  Prison2:
+    location: Lobby;-81.3520527192392;9.0;171.48138883884525;31.278572;88.530945
+    lines:
+    - §a§l§nBUDGET
+  FactionShop:
+    location: factions;-16.5;79.0;34.5;90.0;-0.4809764
+    lines:
+    - §lShop
+  FactionAuction:
+    location: factions;-16.5;78.5;34.5;90.0;0.7868731
+    lines:
+    - §4§lAuction House
+  FactionsWelcome:
+    location: factions;-13.5;79.0;31.5;90.0;270.62564
+    lines:
+    - §l Welcome to §4§lFactions!
+  FactionsKit:
+    location: factions;-13.5;78.5;31.5;88.665436;269.75815
+    lines:
+    - §f§lDo §l§d/Kit Starter! §f§lto get started!
+  welcome:
+    location: Lobby;-18.5;11.0;176.5;72.98413;0.90893555
+    lines:
+    - §lWelcome to §b§lAdmiralMC!

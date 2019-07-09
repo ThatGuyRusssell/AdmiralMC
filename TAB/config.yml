@@ -1,0 +1,169 @@
+# PLACEHOLDERS
+# %online% = online count
+# %maxplayers% = amount of slots on server
+# %ping% = ping of player
+# %nick% = nickname of player
+# %ip% = IP of player
+# %tps% = TPS of server
+# %time% = for example 20:30:00
+# %date% = current date, configurable below
+# %rank% = permission group of player, output can be modified below
+# %money% = money of player
+# %deluxetag% = tag from plugin DeluxeTags
+# %world% = name of world where player is
+# %worldonline% = amount of players in the same world, might be useful with per-world-playerlist enabled
+# %canseeonline% = similar to online, but doesn't count vanished players
+# %staffonline% = amount of staff online, groups can be defined below
+# %canseestaffonline% = combination of those 2 above
+# %faction% = if a faction plugin is installed..
+# %health% = health of player
+# %memory-used% = used RAM memory of server
+# %memory-max% = total RAM memory of server
+# %memory-used-gb% = in GB
+# %memory-max-gb% = in GB
+# %vault-prefix% = chat prefix of player set in Vault
+# %vault-suffix% = chat suffix of player set in Vault
+# %xPos% = X position of player
+# %yPos% = Y position of player
+# %zPos% = Z position of player
+# %afk% = if player is afk or not, MEASURED BY ESSENTIALS or AutoAfk
+# %essentialsnick% = nickname of player set by essentials (if no nickname is set, uses player's name)
+# plugin also supports PlaceholderAPI
+
+change-nametag-prefix-suffix: true
+change-tablist-prefix-suffix: true
+enable-header-footer: true
+nametag-refresh-interval-ticks: 20
+tablist-refresh-interval-ticks: 20
+header-footer-refresh-interval-ticks: 1
+unlimited-nametag-prefix-suffix-mode:
+  enabled: false
+  modify-npc-names: false
+header:
+- '%animation:ServerName%'
+- ''
+- '&7&l>> %animation:Welcome%&3 &b%nick%&7&l! &7&l<<'
+- ''
+- '&7Currently &d&l%online% &7player(s) online'
+- '&6Currently &d&l%staffonline% &6staff online'
+- ''
+footer:
+- ''
+- '%animation:time%'
+- '%animation:ping-tps%'
+- ''
+enable-collision: true
+tablist-objective: PING
+tablist-objective-custom-value: '%some_placeholderapi_placeholder%'
+do-not-move-spectators: false
+group-sorting-priority-list:
+- Owner
+- Co-Owner
+- Manager
+- Admin
+- Mod
+- Helper
+- headbuilder
+- Builder
+- dONATER
+- Player
+- default
+staff-groups:
+- Admin
+- Mod
+- Owner
+- Moderator
+- Helper
+- Builder
+- headbuilder
+- co-owner
+- manager
+rank-aliases:
+  Admin: '&4&lADMIN'
+  Mod: '&b&lMOD'
+  Premium: '&6&lPREMIUM'
+  Ultra: '&b&lULTRA'
+  Legend: '&a&lLEGEND'
+  Titan: '&c&lTITAN'
+  Youtuber: '&c&lYOUTUBE'
+  Default: ' &f[&7Default&f]'
+  _OTHER_: '%vault-prefix%'
+  Builder: ' &6★&b&lBuilder&6★'
+  headbuilder: ' &6★&b&lHead Builder&6★'
+  co-owner: ' &6★&f&lCo-Owner&6★'
+  manager: ' &6★&f&lManager&6★ '
+Groups:
+  Owner:
+    tabprefix: ' &6★&f&lOwner&6★ '
+    tagprefix: ' &6★&f&lOwner&6★ '
+  Admin:
+    tabprefix: ' &6★&f&lAdmin&6★ '
+    tagprefix: ' &6★&f&lAdmin&6★ '
+  Default:
+    tabprefix: ' &f[&7Default&f] '
+    tagprefix: ' &f[&7Default&f] '
+  _OTHER_:
+    tabprefix: '%rank% '
+    tagprefix: '%rank% '
+    tabsuffix: '%afk%'
+    tagsuffix: '%afk%'
+    customtabname: '%essentialsnick%'
+    customtagname: '%essentialsnick%'
+Users:
+  md_5:
+    tabprefix: '&6&lSpigot &a'
+    tagprefix: '&6&lDev &a'
+    tabsuffix: ''
+    tagsuffix: ''
+    abovename: Hi
+    belowname: There
+    customtabname: MessageDigest5
+    customtagname: MessageDigest5
+  Berckham: {}
+per-world-settings:
+  world1:
+    header:
+    - an example of world with custom
+    footer:
+    - header/footer and prefix/suffix
+    Groups:
+      Owner:
+        tabprefix: '&0&l[&a&lOwner&0&l] &a'
+        tagprefix: '&2&lOwner &a'
+        header:
+        - ur server man
+        footer:
+        - welcome
+      Admin:
+        tabprefix: '&2&lAdmin &1&l'
+        tagprefix: '&2&lAdmin &1&l'
+      Player:
+        tabprefix: '&5&lPlayer &3&l'
+        tagprefix: '&5&lPlayer &3&l'
+    Users:
+      Player1:
+        tabprefix: ''
+        tagprefix: ''
+        tabsuffix: ''
+        tagsuffix: ''
+placeholders:
+  deluxetag-yes: < %value% >
+  deluxetag-no: '&oNo Tag :('
+  faction-yes: < %value% >
+  faction-no: '&2Wilderness'
+  afk-yes: ' &4*&4&lAFK&4*&r'
+  afk-no: ''
+  date-format: dd.MM.yyyy
+  time-format: '[HH:mm:ss / h:mm a]'
+  time-offset: 0
+disable-features-in-worlds:
+  header-footer:
+  - disabledworld
+  tablist-names:
+  - disabledworld
+  nametag:
+  - disabledworld
+  tablist-objective:
+  - disabledworld
+  bossbar:
+  - disabledworld

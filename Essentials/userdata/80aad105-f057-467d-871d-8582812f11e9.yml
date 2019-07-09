@@ -1,0 +1,24 @@
+lastAccountName: Hydr0lava
+timestamps:
+  login: 1562634374264
+  logout: 1562635692952
+  lastteleport: 1562634475300
+ipAddress: 96.42.108.153
+lastlocation:
+  world: factions
+  x: -10.47601327847129
+  y: 101.73135464439905
+  z: -22.592271506142332
+  yaw: 129.19797
+  pitch: 43.79994
+geolocation: United States
+logoutlocation:
+  world: factions
+  x: 75.20425906138234
+  y: 100.23160251587541
+  z: 33.82871536472965
+  yaw: 200.65027
+  pitch: 35.09996
+nickname: §4§lHydro
+afk: false
+money: '0.0'
