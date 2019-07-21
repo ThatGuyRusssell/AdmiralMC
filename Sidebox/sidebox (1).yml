@@ -1,0 +1,23 @@
+messages:
+  players-only: Only players can run this command!
+sidebox:
+  settings:
+    refresh-rate: 20
+    min-width: 20
+  content:
+    top-row: §3§l->§b §lAdmiralMC §3§l<-
+    bottom-row: §6§ladmiral.mc.gg
+    faction:
+      title: '§aFaction:'
+      prefix: §7
+      none: '-'
+    role:
+      title: '§aRole:'
+      prefix: §7
+      none: '-'
+    rank:
+      title: '§aRank:'
+      prefix: §7
+    balance:
+      title: '§aBalance:'
+      prefix: §7$
